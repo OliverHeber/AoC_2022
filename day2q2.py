@@ -1,5 +1,5 @@
 def main():
-    with open("input3.txt") as file_in:
+    with open("inputDayTwoQ2.txt") as file_in:
         lines = []
         for line in file_in:
             # lines.append(int(line.rstrip('\n')))
